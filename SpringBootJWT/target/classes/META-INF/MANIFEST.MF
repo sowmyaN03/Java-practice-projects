@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 25
+Implementation-Title: SpringBootJWT
+Implementation-Version: 0.0.1 SNAPSHOTT-version46}
+Created-By: Maven Integration for Eclipse
+
